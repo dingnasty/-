@@ -1,0 +1,8 @@
+﻿  EXG.cpp
+F:\c++test\EXG\EXG.cpp(158,64): warning C4244:  “=”: 从“double”转换到“_Tp”，可能丢失数据
+F:\c++test\EXG\EXG.cpp(158,64): warning C4244:         with
+F:\c++test\EXG\EXG.cpp(158,64): warning C4244:         [
+F:\c++test\EXG\EXG.cpp(158,64): warning C4244:             _Tp=uchar
+F:\c++test\EXG\EXG.cpp(158,64): warning C4244:         ]
+F:\c++test\EXG\EXG.cpp(233,13): warning C4244:  “初始化”: 从“double”转换到“float”，可能丢失数据
+  EXG.vcxproj -> F:\c++test\EXG\x64\Debug\EXG.exe
