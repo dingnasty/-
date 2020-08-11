@@ -1,0 +1,9 @@
+﻿  cpp2python.cpp
+F:\c++test\c2python\cpp2python.cpp(29,67): warning C4244:  “=”: 从“double”转换到“_Tp”，可能丢失数据
+F:\c++test\c2python\cpp2python.cpp(29,67): warning C4244:         with
+F:\c++test\c2python\cpp2python.cpp(29,67): warning C4244:         [
+F:\c++test\c2python\cpp2python.cpp(29,67): warning C4244:             _Tp=uchar
+F:\c++test\c2python\cpp2python.cpp(29,67): warning C4244:         ]
+F:\c++test\c2python\cpp2python.cpp(186,13): warning C4244:  “初始化”: 从“double”转换到“float”，可能丢失数据
+    正在创建库 F:\c++test\c2python\x64\Debug\c2python.lib 和对象 F:\c++test\c2python\x64\Debug\c2python.exp
+  c2python.vcxproj -> F:\c++test\c2python\x64\Debug\c2python.dll
